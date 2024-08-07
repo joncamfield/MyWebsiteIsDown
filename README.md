@@ -1,5 +1,4 @@
-This is now updated, translated, and maintained at [https://digitalfirstaid.org/en/topics/website-not-working/] 
-
+This is now updated, translated, and maintained at [https://digitalfirstaid.org/topics/website-not-working/]
 
 MyWebsiteIsDown (OLD)
 ===============
@@ -14,4 +13,3 @@ Many thanks to the providers and advisors who helped review and suggest addition
  * Cameran Ashraf
  * Collin Anderson
 
-[![githalytics.com alpha](https://cruel-carlota.pagodabox.com/dc4c191166ab89785c89e222c02e5572 "githalytics.com")](http://githalytics.com/OpenInternet/MyWebsiteIsDown)
